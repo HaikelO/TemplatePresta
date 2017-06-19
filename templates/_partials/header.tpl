@@ -29,7 +29,7 @@
 {/block}
 
 {block name='header_nav'}
-  <nav class="header-nav">
+  <!--<nav class="header-nav">
     <div class="container">
         <div class="row">
           <div class="hidden-sm-down">
@@ -51,7 +51,7 @@
           </div>
         </div>
     </div>
-  </nav>
+  </nav>-->
 {/block}
 
 {block name='header_top'}
