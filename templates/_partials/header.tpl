@@ -60,7 +60,8 @@
        <div class="row">
         <div class="col-md-2 hidden-sm-down" id="_desktop_logo">
           <a href="{$urls.base_url}">
-            <img class="logo img-responsive" src="{$shop.logo}" alt="{$shop.name}">
+            <!--<img class="logo img-responsive" src="{$shop.logo}" alt="{$shop.name}">-->
+             <h1>GALERIE7</h1>
           </a>
         </div>
         <div class="col-md-10 col-sm-12 position-static">

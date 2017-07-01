@@ -43,7 +43,7 @@
         </li>
       {/foreach}
     </ul>
-    <div class="direction">
+    <!--<div class="direction">
       <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
         <span class="icon-prev hidden-xs" aria-hidden="true">
           <i class="material-icons">&#xE5CB;</i>
@@ -56,6 +56,6 @@
         </span>
         <span class="sr-only">{l s='Next' d='Shop.Theme'}</span>
       </a>
-    </div>
+    </div>-->
   </div>
 {/if}
